@@ -6,3 +6,6 @@ absl-py
 matplotlib
 easydict
 Pillow
+yolov4
+scipy
+urllib3==1.26.15
